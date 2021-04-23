@@ -19,7 +19,7 @@ ul {
 
 // HEADER
 header {
-    background-image: url("/dist/images/top_background.jpg");
+    background: black;
     background-size: cover;
     height: 30rem;
     // several-nav 
@@ -71,6 +71,10 @@ header {
         // h1 
         h1 {
             font-size: 3.125em;
+            color:#fff;
+        }
+        p {
+            color:#fff;
         }
         // button
         button {
@@ -79,7 +83,7 @@ header {
             border-radius: 1.562rem;
             outline: none;
             border:0.0625rem solid #000;
-            background:none;
+            background:orange;
             position: relative;
             top: 1.875rem;
             cursor:pointer;
