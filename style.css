@@ -35,10 +35,6 @@ nav .r p{width:40px;height:4px;margin:5px 0;background-color:#fff;border-radius:
 .main-2{text-align:center;margin-top:50px}
 .main-2 h1{margin-bottom:20px;font-weight:300;font-size:40px}
 .main-2 h1{margin-bottom:20px;font-weight:300;font-size:40px}
-<<<<<<< HEAD
-.main-2 p {margin:0 auto;}
-=======
->>>>>>> a6e7cefc6a7b4e4e7a5feb80e002430579371ae1
 
 .main-3{display:grid;grid-template-columns:repeat(auto-fill,400px);grid-gap:30px;justify-content:center;align-items:center;text-align:center;margin-top:50px}
 .main-3 .boxes{margin:0 30px}
@@ -86,5 +82,5 @@ footer h3 i{transition:color .3s}footer h3 i:hover{color:red}
 }
 @media screen and (min-width:1200px){
     .show-menu{width:35%!important}.main-1 .img img{width:450px!important}.main-1 .txt-2{width:45%!important}
-    .main-2 p{width:70%}.main-3{grid-template-columns:auto auto auto;grid-gap:60px!important}.main-6 .customer{width:60%}
+    .main-2 p{width:70%;margin:0 auto;}.main-3{grid-template-columns:auto auto auto;grid-gap:60px!important}.main-6 .customer{width:60%}
 }
