@@ -170,6 +170,9 @@ nav .r p {
     font-weight: 300;
     font-size: 40px;
 }
+.main-2 p {
+    margin: 0 auto;
+}
 
 .main-3 {
     display: grid;
@@ -429,8 +432,7 @@ footer h3 i:hover {
         width: 45% !important;
     }
     .main-2 p {
-        width: 70%;
-        margin: 0 auto;
+        width: 70% !important;
     }
     .main-3 {
         grid-template-columns: auto auto auto;
